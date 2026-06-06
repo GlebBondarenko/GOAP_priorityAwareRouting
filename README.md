@@ -20,7 +20,7 @@ When a corridor or exit becomes unavailable during transport, affected agents mo
 
 The proposed controller does not create a separate private world-state object for every patient. Instead, an environment mediator updates shared resource accessibility and node-level access filters. Personalization emerges because agents with different priority labels, queue positions, and internal states evaluate the same environment differently.
 
-![Environment-mediated GOAP architecture](docs/assets/architecture_vertical.svg)
+![Environment-mediated GOAP architecture](docs/assets/architecture_vertical.png)
 
 ## Compared Controllers
 
