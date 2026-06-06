@@ -8,7 +8,7 @@ The core question is whether environment-mediated replanning can reduce delay fo
 
 The environment contains a waiting room, two assessment wings, shared cubicles, corridor nodes, alternative detours, and emergency fallback areas. Corridors and resource nodes can be opened, closed, or filtered by patient priority, queue position, occupancy, and current flow-control mode.
 
-![Simulation environment floor plan](docs/assets/simulation_floor_plan.png)
+![Simulation environment floor plan](docs/assets/simulation_floor_plan2.png)
 
 ## Emergency Fallback Demo
 
