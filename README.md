@@ -161,3 +161,12 @@ tools/                          Dataset and figure generation scripts
 ## Scope Note
 
 This project evaluates simulated patient transport and dynamic routing behavior. It does not validate clinical triage policy, patient outcomes, or real emergency-department treatment quality.
+
+
+## Contributors
+
+* Gleb Bondarenko
+* Anastasia Popova
+* Alyona Syrykh
+
+
